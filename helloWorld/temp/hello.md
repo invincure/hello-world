@@ -7,3 +7,5 @@
 - push : 커밋들을 원격 저장소에 업로드
 
 ##additional Test11
+
+COMMIT1
